@@ -1,0 +1,2143 @@
+"","Year","State","Code","Deaths","Crude.Rate","hover"
+"1",1999,"Alabama","AL",195,"4.4","Alabama
+Deaths:195"
+"2",2000,"Alabama","AL",232,"5.2","Alabama
+Deaths:232"
+"3",2001,"Alabama","AL",253,"5.7","Alabama
+Deaths:253"
+"4",2002,"Alabama","AL",248,"5.5","Alabama
+Deaths:248"
+"5",2003,"Alabama","AL",255,"5.7","Alabama
+Deaths:255"
+"6",2004,"Alabama","AL",327,"7.2","Alabama
+Deaths:327"
+"7",2005,"Alabama","AL",332,"7.3","Alabama
+Deaths:332"
+"8",2006,"Alabama","AL",466,"10.1","Alabama
+Deaths:466"
+"9",2007,"Alabama","AL",554,"11.9","Alabama
+Deaths:554"
+"10",2008,"Alabama","AL",646,"13.7","Alabama
+Deaths:646"
+"11",2009,"Alabama","AL",688,"14.5","Alabama
+Deaths:688"
+"12",2010,"Alabama","AL",585,"12.2","Alabama
+Deaths:585"
+"13",2011,"Alabama","AL",605,"12.6","Alabama
+Deaths:605"
+"14",2012,"Alabama","AL",632,"13.1","Alabama
+Deaths:632"
+"15",2013,"Alabama","AL",648,"13.4","Alabama
+Deaths:648"
+"16",2014,"Alabama","AL",800,"16.5","Alabama
+Deaths:800"
+"17",2015,"Alabama","AL",810,"16.7","Alabama
+Deaths:810"
+"18",2016,"Alabama","AL",855,"17.6","Alabama
+Deaths:855"
+"19",2017,"Alabama","AL",960,"19.7","Alabama
+Deaths:960"
+"20",2018,"Alabama","AL",895,"18.3","Alabama
+Deaths:895"
+"21",2019,"Alabama","AL",906,"18.5","Alabama
+Deaths:906"
+"22",1999,"Alaska","AK",56,"9.0","Alaska
+Deaths:56"
+"23",2000,"Alaska","AK",54,"8.6","Alaska
+Deaths:54"
+"24",2001,"Alaska","AK",72,"11.4","Alaska
+Deaths:72"
+"25",2002,"Alaska","AK",85,"13.2","Alaska
+Deaths:85"
+"26",2003,"Alaska","AK",86,"13.3","Alaska
+Deaths:86"
+"27",2004,"Alaska","AK",92,"14.0","Alaska
+Deaths:92"
+"28",2005,"Alaska","AK",85,"12.7","Alaska
+Deaths:85"
+"29",2006,"Alaska","AK",85,"12.6","Alaska
+Deaths:85"
+"30",2007,"Alaska","AK",75,"11.0","Alaska
+Deaths:75"
+"31",2008,"Alaska","AK",132,"19.2","Alaska
+Deaths:132"
+"32",2009,"Alaska","AK",133,"19.0","Alaska
+Deaths:133"
+"33",2010,"Alaska","AK",84,"11.8","Alaska
+Deaths:84"
+"34",2011,"Alaska","AK",107,"14.8","Alaska
+Deaths:107"
+"35",2012,"Alaska","AK",132,"18.0","Alaska
+Deaths:132"
+"36",2013,"Alaska","AK",110,"15.0","Alaska
+Deaths:110"
+"37",2014,"Alaska","AK",127,"17.2","Alaska
+Deaths:127"
+"38",2015,"Alaska","AK",127,"17.2","Alaska
+Deaths:127"
+"39",2016,"Alaska","AK",138,"18.6","Alaska
+Deaths:138"
+"40",2017,"Alaska","AK",158,"21.4","Alaska
+Deaths:158"
+"41",2018,"Alaska","AK",119,"16.1","Alaska
+Deaths:119"
+"42",2019,"Alaska","AK",149,"20.4","Alaska
+Deaths:149"
+"43",1999,"Arizona","AZ",557,"11.1","Arizona
+Deaths:557"
+"44",2000,"Arizona","AZ",559,"10.9","Arizona
+Deaths:559"
+"45",2001,"Arizona","AZ",598,"11.3","Arizona
+Deaths:598"
+"46",2002,"Arizona","AZ",667,"12.4","Arizona
+Deaths:667"
+"47",2003,"Arizona","AZ",739,"13.4","Arizona
+Deaths:739"
+"48",2004,"Arizona","AZ",803,"14.2","Arizona
+Deaths:803"
+"49",2005,"Arizona","AZ",849,"14.5","Arizona
+Deaths:849"
+"50",2006,"Arizona","AZ",959,"15.9","Arizona
+Deaths:959"
+"51",2007,"Arizona","AZ",981,"15.9","Arizona
+Deaths:981"
+"52",2008,"Arizona","AZ",853,"13.6","Arizona
+Deaths:853"
+"53",2009,"Arizona","AZ",1041,"16.4","Arizona
+Deaths:1041"
+"54",2010,"Arizona","AZ",1141,"17.9","Arizona
+Deaths:1141"
+"55",2011,"Arizona","AZ",1118,"17.2","Arizona
+Deaths:1118"
+"56",2012,"Arizona","AZ",1206,"18.4","Arizona
+Deaths:1206"
+"57",2013,"Arizona","AZ",1304,"19.7","Arizona
+Deaths:1304"
+"58",2014,"Arizona","AZ",1274,"18.9","Arizona
+Deaths:1274"
+"59",2015,"Arizona","AZ",1351,"19.8","Arizona
+Deaths:1351"
+"60",2016,"Arizona","AZ",1500,"21.6","Arizona
+Deaths:1500"
+"61",2017,"Arizona","AZ",1628,"23.2","Arizona
+Deaths:1628"
+"62",2018,"Arizona","AZ",1784,"24.9","Arizona
+Deaths:1784"
+"63",2019,"Arizona","AZ",2016,"27.7","Arizona
+Deaths:2016"
+"64",1999,"Arkansas","AR",121,"4.6","Arkansas
+Deaths:121"
+"65",2000,"Arkansas","AR",151,"5.6","Arkansas
+Deaths:151"
+"66",2001,"Arkansas","AR",131,"4.9","Arkansas
+Deaths:131"
+"67",2002,"Arkansas","AR",189,"7.0","Arkansas
+Deaths:189"
+"68",2003,"Arkansas","AR",203,"7.5","Arkansas
+Deaths:203"
+"69",2004,"Arkansas","AR",249,"9.1","Arkansas
+Deaths:249"
+"70",2005,"Arkansas","AR",286,"10.3","Arkansas
+Deaths:286"
+"71",2006,"Arkansas","AR",307,"10.9","Arkansas
+Deaths:307"
+"72",2007,"Arkansas","AR",326,"11.4","Arkansas
+Deaths:326"
+"73",2008,"Arkansas","AR",390,"13.6","Arkansas
+Deaths:390"
+"74",2009,"Arkansas","AR",384,"13.3","Arkansas
+Deaths:384"
+"75",2010,"Arkansas","AR",374,"12.8","Arkansas
+Deaths:374"
+"76",2011,"Arkansas","AR",375,"12.8","Arkansas
+Deaths:375"
+"77",2012,"Arkansas","AR",398,"13.5","Arkansas
+Deaths:398"
+"78",2013,"Arkansas","AR",343,"11.6","Arkansas
+Deaths:343"
+"79",2014,"Arkansas","AR",377,"12.7","Arkansas
+Deaths:377"
+"80",2015,"Arkansas","AR",425,"14.3","Arkansas
+Deaths:425"
+"81",2016,"Arkansas","AR",423,"14.2","Arkansas
+Deaths:423"
+"82",2017,"Arkansas","AR",481,"16.0","Arkansas
+Deaths:481"
+"83",2018,"Arkansas","AR",475,"15.8","Arkansas
+Deaths:475"
+"84",2019,"Arkansas","AR",404,"13.4","Arkansas
+Deaths:404"
+"85",1999,"California","CA",3090,"9.2","California
+Deaths:3090"
+"86",2000,"California","CA",2301,"6.8","California
+Deaths:2301"
+"87",2001,"California","CA",1507,"4.4","California
+Deaths:1507"
+"88",2002,"California","CA",3418,"9.8","California
+Deaths:3418"
+"89",2003,"California","CA",3614,"10.3","California
+Deaths:3614"
+"90",2004,"California","CA",3681,"10.3","California
+Deaths:3681"
+"91",2005,"California","CA",3821,"10.7","California
+Deaths:3821"
+"92",2006,"California","CA",4026,"11.2","California
+Deaths:4026"
+"93",2007,"California","CA",4178,"11.5","California
+Deaths:4178"
+"94",2008,"California","CA",4147,"11.3","California
+Deaths:4147"
+"95",2009,"California","CA",4290,"11.6","California
+Deaths:4290"
+"96",2010,"California","CA",4258,"11.4","California
+Deaths:4258"
+"97",2011,"California","CA",4429,"11.8","California
+Deaths:4429"
+"98",2012,"California","CA",4304,"11.3","California
+Deaths:4304"
+"99",2013,"California","CA",4747,"12.4","California
+Deaths:4747"
+"100",2014,"California","CA",4816,"12.4","California
+Deaths:4816"
+"101",2015,"California","CA",5025,"12.8","California
+Deaths:5025"
+"102",2016,"California","CA",5094,"13.0","California
+Deaths:5094"
+"103",2017,"California","CA",5302,"13.4","California
+Deaths:5302"
+"104",2018,"California","CA",5771,"14.6","California
+Deaths:5771"
+"105",2019,"California","CA",6668,"16.9","California
+Deaths:6668"
+"106",1999,"Colorado","CO",375,"8.9","Colorado
+Deaths:375"
+"107",2000,"Colorado","CO",372,"8.6","Colorado
+Deaths:372"
+"108",2001,"Colorado","CO",444,"10.0","Colorado
+Deaths:444"
+"109",2002,"Colorado","CO",474,"10.6","Colorado
+Deaths:474"
+"110",2003,"Colorado","CO",529,"11.7","Colorado
+Deaths:529"
+"111",2004,"Colorado","CO",548,"12.0","Colorado
+Deaths:548"
+"112",2005,"Colorado","CO",640,"13.8","Colorado
+Deaths:640"
+"113",2006,"Colorado","CO",660,"14.0","Colorado
+Deaths:660"
+"114",2007,"Colorado","CO",747,"15.5","Colorado
+Deaths:747"
+"115",2008,"Colorado","CO",760,"15.5","Colorado
+Deaths:760"
+"116",2009,"Colorado","CO",784,"15.8","Colorado
+Deaths:784"
+"117",2010,"Colorado","CO",676,"13.4","Colorado
+Deaths:676"
+"118",2011,"Colorado","CO",852,"16.7","Colorado
+Deaths:852"
+"119",2012,"Colorado","CO",826,"15.9","Colorado
+Deaths:826"
+"120",2013,"Colorado","CO",864,"16.4","Colorado
+Deaths:864"
+"121",2014,"Colorado","CO",917,"17.1","Colorado
+Deaths:917"
+"122",2015,"Colorado","CO",893,"16.4","Colorado
+Deaths:893"
+"123",2016,"Colorado","CO",973,"17.6","Colorado
+Deaths:973"
+"124",2017,"Colorado","CO",1050,"18.7","Colorado
+Deaths:1050"
+"125",2018,"Colorado","CO",1038,"18.2","Colorado
+Deaths:1038"
+"126",2019,"Colorado","CO",1118,"19.4","Colorado
+Deaths:1118"
+"127",1999,"Connecticut","CT",330,"9.7","Connecticut
+Deaths:330"
+"128",2000,"Connecticut","CT",336,"9.9","Connecticut
+Deaths:336"
+"129",2001,"Connecticut","CT",326,"9.5","Connecticut
+Deaths:326"
+"130",2002,"Connecticut","CT",377,"10.9","Connecticut
+Deaths:377"
+"131",2003,"Connecticut","CT",338,"9.7","Connecticut
+Deaths:338"
+"132",2004,"Connecticut","CT",360,"10.3","Connecticut
+Deaths:360"
+"133",2005,"Connecticut","CT",352,"10.0","Connecticut
+Deaths:352"
+"134",2006,"Connecticut","CT",458,"13.0","Connecticut
+Deaths:458"
+"135",2007,"Connecticut","CT",444,"12.6","Connecticut
+Deaths:444"
+"136",2008,"Connecticut","CT",397,"11.2","Connecticut
+Deaths:397"
+"137",2009,"Connecticut","CT",397,"11.1","Connecticut
+Deaths:397"
+"138",2010,"Connecticut","CT",372,"10.4","Connecticut
+Deaths:372"
+"139",2011,"Connecticut","CT",416,"11.6","Connecticut
+Deaths:416"
+"140",2012,"Connecticut","CT",451,"12.6","Connecticut
+Deaths:451"
+"141",2013,"Connecticut","CT",600,"16.7","Connecticut
+Deaths:600"
+"142",2014,"Connecticut","CT",639,"17.8","Connecticut
+Deaths:639"
+"143",2015,"Connecticut","CT",827,"23.0","Connecticut
+Deaths:827"
+"144",2016,"Connecticut","CT",997,"27.9","Connecticut
+Deaths:997"
+"145",2017,"Connecticut","CT",1103,"30.7","Connecticut
+Deaths:1103"
+"146",2018,"Connecticut","CT",1105,"30.9","Connecticut
+Deaths:1105"
+"147",2019,"Connecticut","CT",1263,"35.4","Connecticut
+Deaths:1263"
+"148",1999,"Delaware","DE",55,"7.1","Delaware
+Deaths:55"
+"149",2000,"Delaware","DE",60,"7.7","Delaware
+Deaths:60"
+"150",2001,"Delaware","DE",70,"8.8","Delaware
+Deaths:70"
+"151",2002,"Delaware","DE",85,"10.5","Delaware
+Deaths:85"
+"152",2003,"Delaware","DE",88,"10.8","Delaware
+Deaths:88"
+"153",2004,"Delaware","DE",92,"11.1","Delaware
+Deaths:92"
+"154",2005,"Delaware","DE",67,"7.9","Delaware
+Deaths:67"
+"155",2006,"Delaware","DE",83,"9.7","Delaware
+Deaths:83"
+"156",2007,"Delaware","DE",102,"11.7","Delaware
+Deaths:102"
+"157",2008,"Delaware","DE",125,"14.1","Delaware
+Deaths:125"
+"158",2009,"Delaware","DE",139,"15.6","Delaware
+Deaths:139"
+"159",2010,"Delaware","DE",147,"16.4","Delaware
+Deaths:147"
+"160",2011,"Delaware","DE",166,"18.3","Delaware
+Deaths:166"
+"161",2012,"Delaware","DE",150,"16.4","Delaware
+Deaths:150"
+"162",2013,"Delaware","DE",170,"18.4","Delaware
+Deaths:170"
+"163",2014,"Delaware","DE",204,"21.8","Delaware
+Deaths:204"
+"164",2015,"Delaware","DE",208,"22.0","Delaware
+Deaths:208"
+"165",2016,"Delaware","DE",288,"30.3","Delaware
+Deaths:288"
+"166",2017,"Delaware","DE",342,"35.6","Delaware
+Deaths:342"
+"167",2018,"Delaware","DE",409,"42.3","Delaware
+Deaths:409"
+"168",2019,"Delaware","DE",442,"45.4","Delaware
+Deaths:442"
+"169",1999,"District of Columbia","DC",55,"9.6","District of Columbia
+Deaths:55"
+"170",2000,"District of Columbia","DC",84,"14.7","District of Columbia
+Deaths:84"
+"171",2001,"District of Columbia","DC",111,"19.3","District of Columbia
+Deaths:111"
+"172",2002,"District of Columbia","DC",70,"12.2","District of Columbia
+Deaths:70"
+"173",2003,"District of Columbia","DC",119,"20.9","District of Columbia
+Deaths:119"
+"174",2004,"District of Columbia","DC",109,"19.2","District of Columbia
+Deaths:109"
+"175",2005,"District of Columbia","DC",94,"16.6","District of Columbia
+Deaths:94"
+"176",2006,"District of Columbia","DC",129,"22.6","District of Columbia
+Deaths:129"
+"177",2007,"District of Columbia","DC",90,"15.7","District of Columbia
+Deaths:90"
+"178",2008,"District of Columbia","DC",77,"13.3","District of Columbia
+Deaths:77"
+"179",2009,"District of Columbia","DC",58,"9.8","District of Columbia
+Deaths:58"
+"180",2010,"District of Columbia","DC",90,"15.0","District of Columbia
+Deaths:90"
+"181",2011,"District of Columbia","DC",94,"15.2","District of Columbia
+Deaths:94"
+"182",2012,"District of Columbia","DC",85,"13.4","District of Columbia
+Deaths:85"
+"183",2013,"District of Columbia","DC",113,"17.5","District of Columbia
+Deaths:113"
+"184",2014,"District of Columbia","DC",106,"16.1","District of Columbia
+Deaths:106"
+"185",2015,"District of Columbia","DC",130,"19.3","District of Columbia
+Deaths:130"
+"186",2016,"District of Columbia","DC",276,"40.5","District of Columbia
+Deaths:276"
+"187",2017,"District of Columbia","DC",322,"46.4","District of Columbia
+Deaths:322"
+"188",2018,"District of Columbia","DC",266,"37.9","District of Columbia
+Deaths:266"
+"189",2019,"District of Columbia","DC",319,"45.2","District of Columbia
+Deaths:319"
+"190",1999,"Florida","FL",1061,"6.7","Florida
+Deaths:1061"
+"191",2000,"Florida","FL",1237,"7.7","Florida
+Deaths:1237"
+"192",2001,"Florida","FL",1833,"11.2","Florida
+Deaths:1833"
+"193",2002,"Florida","FL",2041,"12.2","Florida
+Deaths:2041"
+"194",2003,"Florida","FL",2153,"12.7","Florida
+Deaths:2153"
+"195",2004,"Florida","FL",2408,"13.8","Florida
+Deaths:2408"
+"196",2005,"Florida","FL",2664,"14.9","Florida
+Deaths:2664"
+"197",2006,"Florida","FL",2928,"16.1","Florida
+Deaths:2928"
+"198",2007,"Florida","FL",2936,"16.0","Florida
+Deaths:2936"
+"199",2008,"Florida","FL",3097,"16.7","Florida
+Deaths:3097"
+"200",2009,"Florida","FL",3193,"17.1","Florida
+Deaths:3193"
+"201",2010,"Florida","FL",3181,"16.9","Florida
+Deaths:3181"
+"202",2011,"Florida","FL",3033,"15.9","Florida
+Deaths:3033"
+"203",2012,"Florida","FL",2697,"14.0","Florida
+Deaths:2697"
+"204",2013,"Florida","FL",2603,"13.3","Florida
+Deaths:2603"
+"205",2014,"Florida","FL",2804,"14.1","Florida
+Deaths:2804"
+"206",2015,"Florida","FL",3377,"16.7","Florida
+Deaths:3377"
+"207",2016,"Florida","FL",4963,"24.1","Florida
+Deaths:4963"
+"208",2017,"Florida","FL",5347,"25.5","Florida
+Deaths:5347"
+"209",2018,"Florida","FL",4928,"23.1","Florida
+Deaths:4928"
+"210",2019,"Florida","FL",5538,"25.8","Florida
+Deaths:5538"
+"211",1999,"Georgia","GA",347,"4.3","Georgia
+Deaths:347"
+"212",2000,"Georgia","GA",429,"5.2","Georgia
+Deaths:429"
+"213",2001,"Georgia","GA",591,"7.1","Georgia
+Deaths:591"
+"214",2002,"Georgia","GA",631,"7.4","Georgia
+Deaths:631"
+"215",2003,"Georgia","GA",684,"7.9","Georgia
+Deaths:684"
+"216",2004,"Georgia","GA",730,"8.3","Georgia
+Deaths:730"
+"217",2005,"Georgia","GA",820,"9.2","Georgia
+Deaths:820"
+"218",2006,"Georgia","GA",912,"10.0","Georgia
+Deaths:912"
+"219",2007,"Georgia","GA",973,"10.4","Georgia
+Deaths:973"
+"220",2008,"Georgia","GA",977,"10.3","Georgia
+Deaths:977"
+"221",2009,"Georgia","GA",1043,"10.8","Georgia
+Deaths:1043"
+"222",2010,"Georgia","GA",1124,"11.6","Georgia
+Deaths:1124"
+"223",2011,"Georgia","GA",1112,"11.3","Georgia
+Deaths:1112"
+"224",2012,"Georgia","GA",1115,"11.2","Georgia
+Deaths:1115"
+"225",2013,"Georgia","GA",1160,"11.6","Georgia
+Deaths:1160"
+"226",2014,"Georgia","GA",1268,"12.6","Georgia
+Deaths:1268"
+"227",2015,"Georgia","GA",1370,"13.4","Georgia
+Deaths:1370"
+"228",2016,"Georgia","GA",1461,"14.2","Georgia
+Deaths:1461"
+"229",2017,"Georgia","GA",1629,"15.6","Georgia
+Deaths:1629"
+"230",2018,"Georgia","GA",1500,"14.3","Georgia
+Deaths:1500"
+"231",2019,"Georgia","GA",1502,"14.1","Georgia
+Deaths:1502"
+"232",1999,"Hawaii","HI",83,"6.9","Hawaii
+Deaths:83"
+"233",2000,"Hawaii","HI",64,"5.3","Hawaii
+Deaths:64"
+"234",2001,"Hawaii","HI",83,"6.8","Hawaii
+Deaths:83"
+"235",2002,"Hawaii","HI",85,"6.9","Hawaii
+Deaths:85"
+"236",2003,"Hawaii","HI",102,"8.2","Hawaii
+Deaths:102"
+"237",2004,"Hawaii","HI",128,"10.1","Hawaii
+Deaths:128"
+"238",2005,"Hawaii","HI",143,"11.1","Hawaii
+Deaths:143"
+"239",2006,"Hawaii","HI",131,"10.0","Hawaii
+Deaths:131"
+"240",2007,"Hawaii","HI",142,"10.8","Hawaii
+Deaths:142"
+"241",2008,"Hawaii","HI",129,"9.7","Hawaii
+Deaths:129"
+"242",2009,"Hawaii","HI",148,"11.0","Hawaii
+Deaths:148"
+"243",2010,"Hawaii","HI",154,"11.3","Hawaii
+Deaths:154"
+"244",2011,"Hawaii","HI",189,"13.7","Hawaii
+Deaths:189"
+"245",2012,"Hawaii","HI",159,"11.4","Hawaii
+Deaths:159"
+"246",2013,"Hawaii","HI",167,"11.9","Hawaii
+Deaths:167"
+"247",2014,"Hawaii","HI",174,"12.3","Hawaii
+Deaths:174"
+"248",2015,"Hawaii","HI",175,"12.2","Hawaii
+Deaths:175"
+"249",2016,"Hawaii","HI",207,"14.5","Hawaii
+Deaths:207"
+"250",2017,"Hawaii","HI",221,"15.5","Hawaii
+Deaths:221"
+"251",2018,"Hawaii","HI",237,"16.7","Hawaii
+Deaths:237"
+"252",2019,"Hawaii","HI",266,"18.8","Hawaii
+Deaths:266"
+"253",1999,"Idaho","ID",66,"5.2","Idaho
+Deaths:66"
+"254",2000,"Idaho","ID",70,"5.4","Idaho
+Deaths:70"
+"255",2001,"Idaho","ID",99,"7.5","Idaho
+Deaths:99"
+"256",2002,"Idaho","ID",123,"9.2","Idaho
+Deaths:123"
+"257",2003,"Idaho","ID",118,"8.7","Idaho
+Deaths:118"
+"258",2004,"Idaho","ID",113,"8.1","Idaho
+Deaths:113"
+"259",2005,"Idaho","ID",118,"8.3","Idaho
+Deaths:118"
+"260",2006,"Idaho","ID",147,"10.0","Idaho
+Deaths:147"
+"261",2007,"Idaho","ID",133,"8.8","Idaho
+Deaths:133"
+"262",2008,"Idaho","ID",152,"9.9","Idaho
+Deaths:152"
+"263",2009,"Idaho","ID",181,"11.6","Idaho
+Deaths:181"
+"264",2010,"Idaho","ID",184,"11.7","Idaho
+Deaths:184"
+"265",2011,"Idaho","ID",199,"12.6","Idaho
+Deaths:199"
+"266",2012,"Idaho","ID",188,"11.8","Idaho
+Deaths:188"
+"267",2013,"Idaho","ID",217,"13.5","Idaho
+Deaths:217"
+"268",2014,"Idaho","ID",218,"13.3","Idaho
+Deaths:218"
+"269",2015,"Idaho","ID",224,"13.5","Idaho
+Deaths:224"
+"270",2016,"Idaho","ID",260,"15.4","Idaho
+Deaths:260"
+"271",2017,"Idaho","ID",264,"15.4","Idaho
+Deaths:264"
+"272",2018,"Idaho","ID",274,"15.6","Idaho
+Deaths:274"
+"273",2019,"Idaho","ID",280,"15.7","Idaho
+Deaths:280"
+"274",1999,"Illinois","IL",872,"7.1","Illinois
+Deaths:872"
+"275",2000,"Illinois","IL",910,"7.3","Illinois
+Deaths:910"
+"276",2001,"Illinois","IL",930,"7.4","Illinois
+Deaths:930"
+"277",2002,"Illinois","IL",1030,"8.2","Illinois
+Deaths:1030"
+"278",2003,"Illinois","IL",872,"6.9","Illinois
+Deaths:872"
+"279",2004,"Illinois","IL",1080,"8.6","Illinois
+Deaths:1080"
+"280",2005,"Illinois","IL",1140,"9.0","Illinois
+Deaths:1140"
+"281",2006,"Illinois","IL",1423,"11.3","Illinois
+Deaths:1423"
+"282",2007,"Illinois","IL",1239,"9.8","Illinois
+Deaths:1239"
+"283",2008,"Illinois","IL",1412,"11.1","Illinois
+Deaths:1412"
+"284",2009,"Illinois","IL",1427,"11.2","Illinois
+Deaths:1427"
+"285",2010,"Illinois","IL",1344,"10.5","Illinois
+Deaths:1344"
+"286",2011,"Illinois","IL",1459,"11.3","Illinois
+Deaths:1459"
+"287",2012,"Illinois","IL",1667,"12.9","Illinois
+Deaths:1667"
+"288",2013,"Illinois","IL",1607,"12.5","Illinois
+Deaths:1607"
+"289",2014,"Illinois","IL",1736,"13.5","Illinois
+Deaths:1736"
+"290",2015,"Illinois","IL",1872,"14.6","Illinois
+Deaths:1872"
+"291",2016,"Illinois","IL",2455,"19.2","Illinois
+Deaths:2455"
+"292",2017,"Illinois","IL",2812,"22.0","Illinois
+Deaths:2812"
+"293",2018,"Illinois","IL",2770,"21.7","Illinois
+Deaths:2770"
+"294",2019,"Illinois","IL",2846,"22.5","Illinois
+Deaths:2846"
+"295",1999,"Indiana","IN",251,"4.2","Indiana
+Deaths:251"
+"296",2000,"Indiana","IN",289,"4.8","Indiana
+Deaths:289"
+"297",2001,"Indiana","IN",348,"5.7","Indiana
+Deaths:348"
+"298",2002,"Indiana","IN",345,"5.6","Indiana
+Deaths:345"
+"299",2003,"Indiana","IN",498,"8.0","Indiana
+Deaths:498"
+"300",2004,"Indiana","IN",606,"9.7","Indiana
+Deaths:606"
+"301",2005,"Indiana","IN",665,"10.6","Indiana
+Deaths:665"
+"302",2006,"Indiana","IN",773,"12.2","Indiana
+Deaths:773"
+"303",2007,"Indiana","IN",827,"13.0","Indiana
+Deaths:827"
+"304",2008,"Indiana","IN",869,"13.5","Indiana
+Deaths:869"
+"305",2009,"Indiana","IN",929,"14.4","Indiana
+Deaths:929"
+"306",2010,"Indiana","IN",964,"14.9","Indiana
+Deaths:964"
+"307",2011,"Indiana","IN",1006,"15.4","Indiana
+Deaths:1006"
+"308",2012,"Indiana","IN",1056,"16.2","Indiana
+Deaths:1056"
+"309",2013,"Indiana","IN",1122,"17.1","Indiana
+Deaths:1122"
+"310",2014,"Indiana","IN",1233,"18.7","Indiana
+Deaths:1233"
+"311",2015,"Indiana","IN",1310,"19.8","Indiana
+Deaths:1310"
+"312",2016,"Indiana","IN",1574,"23.7","Indiana
+Deaths:1574"
+"313",2017,"Indiana","IN",1925,"28.9","Indiana
+Deaths:1925"
+"314",2018,"Indiana","IN",1684,"25.2","Indiana
+Deaths:1684"
+"315",2019,"Indiana","IN",1756,"26.1","Indiana
+Deaths:1756"
+"316",1999,"Iowa","IA",59,"2.0","Iowa
+Deaths:59"
+"317",2000,"Iowa","IA",79,"2.7","Iowa
+Deaths:79"
+"318",2001,"Iowa","IA",90,"3.1","Iowa
+Deaths:90"
+"319",2002,"Iowa","IA",101,"3.4","Iowa
+Deaths:101"
+"320",2003,"Iowa","IA",110,"3.7","Iowa
+Deaths:110"
+"321",2004,"Iowa","IA",132,"4.5","Iowa
+Deaths:132"
+"322",2005,"Iowa","IA",154,"5.2","Iowa
+Deaths:154"
+"323",2006,"Iowa","IA",199,"6.7","Iowa
+Deaths:199"
+"324",2007,"Iowa","IA",211,"7.0","Iowa
+Deaths:211"
+"325",2008,"Iowa","IA",214,"7.1","Iowa
+Deaths:214"
+"326",2009,"Iowa","IA",213,"7.0","Iowa
+Deaths:213"
+"327",2010,"Iowa","IA",258,"8.5","Iowa
+Deaths:258"
+"328",2011,"Iowa","IA",265,"8.7","Iowa
+Deaths:265"
+"329",2012,"Iowa","IA",268,"8.7","Iowa
+Deaths:268"
+"330",2013,"Iowa","IA",287,"9.3","Iowa
+Deaths:287"
+"331",2014,"Iowa","IA",273,"8.8","Iowa
+Deaths:273"
+"332",2015,"Iowa","IA",332,"10.6","Iowa
+Deaths:332"
+"333",2016,"Iowa","IA",338,"10.8","Iowa
+Deaths:338"
+"334",2017,"Iowa","IA",357,"11.3","Iowa
+Deaths:357"
+"335",2018,"Iowa","IA",304,"9.6","Iowa
+Deaths:304"
+"336",2019,"Iowa","IA",374,"11.9","Iowa
+Deaths:374"
+"337",1999,"Kansas","KS",99,"3.7","Kansas
+Deaths:99"
+"338",2000,"Kansas","KS",112,"4.2","Kansas
+Deaths:112"
+"339",2001,"Kansas","KS",148,"5.5","Kansas
+Deaths:148"
+"340",2002,"Kansas","KS",189,"7.0","Kansas
+Deaths:189"
+"341",2003,"Kansas","KS",197,"7.2","Kansas
+Deaths:197"
+"342",2004,"Kansas","KS",238,"8.7","Kansas
+Deaths:238"
+"343",2005,"Kansas","KS",283,"10.3","Kansas
+Deaths:283"
+"344",2006,"Kansas","KS",292,"10.6","Kansas
+Deaths:292"
+"345",2007,"Kansas","KS",294,"10.6","Kansas
+Deaths:294"
+"346",2008,"Kansas","KS",241,"8.6","Kansas
+Deaths:241"
+"347",2009,"Kansas","KS",318,"11.2","Kansas
+Deaths:318"
+"348",2010,"Kansas","KS",288,"10.1","Kansas
+Deaths:288"
+"349",2011,"Kansas","KS",317,"11.0","Kansas
+Deaths:317"
+"350",2012,"Kansas","KS",341,"11.8","Kansas
+Deaths:341"
+"351",2013,"Kansas","KS",356,"12.3","Kansas
+Deaths:356"
+"352",2014,"Kansas","KS",349,"12.0","Kansas
+Deaths:349"
+"353",2015,"Kansas","KS",349,"12.0","Kansas
+Deaths:349"
+"354",2016,"Kansas","KS",333,"11.5","Kansas
+Deaths:333"
+"355",2017,"Kansas","KS",360,"12.4","Kansas
+Deaths:360"
+"356",2018,"Kansas","KS",371,"12.7","Kansas
+Deaths:371"
+"357",2019,"Kansas","KS",430,"14.8","Kansas
+Deaths:430"
+"358",1999,"Kentucky","KY",215,"5.4","Kentucky
+Deaths:215"
+"359",2000,"Kentucky","KY",257,"6.4","Kentucky
+Deaths:257"
+"360",2001,"Kentucky","KY",370,"9.1","Kentucky
+Deaths:370"
+"361",2002,"Kentucky","KY",451,"11.0","Kentucky
+Deaths:451"
+"362",2003,"Kentucky","KY",588,"14.3","Kentucky
+Deaths:588"
+"363",2004,"Kentucky","KY",559,"13.5","Kentucky
+Deaths:559"
+"364",2005,"Kentucky","KY",662,"15.8","Kentucky
+Deaths:662"
+"365",2006,"Kentucky","KY",766,"18.2","Kentucky
+Deaths:766"
+"366",2007,"Kentucky","KY",722,"17.0","Kentucky
+Deaths:722"
+"367",2008,"Kentucky","KY",779,"18.2","Kentucky
+Deaths:779"
+"368",2009,"Kentucky","KY",786,"18.2","Kentucky
+Deaths:786"
+"369",2010,"Kentucky","KY",1036,"23.9","Kentucky
+Deaths:1036"
+"370",2011,"Kentucky","KY",1099,"25.2","Kentucky
+Deaths:1099"
+"371",2012,"Kentucky","KY",1126,"25.7","Kentucky
+Deaths:1126"
+"372",2013,"Kentucky","KY",1049,"23.9","Kentucky
+Deaths:1049"
+"373",2014,"Kentucky","KY",1128,"25.6","Kentucky
+Deaths:1128"
+"374",2015,"Kentucky","KY",1332,"30.1","Kentucky
+Deaths:1332"
+"375",2016,"Kentucky","KY",1525,"34.4","Kentucky
+Deaths:1525"
+"376",2017,"Kentucky","KY",1662,"37.3","Kentucky
+Deaths:1662"
+"377",2018,"Kentucky","KY",1407,"31.5","Kentucky
+Deaths:1407"
+"378",2019,"Kentucky","KY",1487,"33.3","Kentucky
+Deaths:1487"
+"379",1999,"Louisiana","LA",246,"5.5","Louisiana
+Deaths:246"
+"380",2000,"Louisiana","LA",335,"7.5","Louisiana
+Deaths:335"
+"381",2001,"Louisiana","LA",351,"7.8","Louisiana
+Deaths:351"
+"382",2002,"Louisiana","LA",468,"10.4","Louisiana
+Deaths:468"
+"383",2003,"Louisiana","LA",630,"13.9","Louisiana
+Deaths:630"
+"384",2004,"Louisiana","LA",656,"14.4","Louisiana
+Deaths:656"
+"385",2005,"Louisiana","LA",752,"16.4","Louisiana
+Deaths:752"
+"386",2006,"Louisiana","LA",800,"18.6","Louisiana
+Deaths:800"
+"387",2007,"Louisiana","LA",862,"19.7","Louisiana
+Deaths:862"
+"388",2008,"Louisiana","LA",686,"15.5","Louisiana
+Deaths:686"
+"389",2009,"Louisiana","LA",623,"13.9","Louisiana
+Deaths:623"
+"390",2010,"Louisiana","LA",616,"13.6","Louisiana
+Deaths:616"
+"391",2011,"Louisiana","LA",618,"13.5","Louisiana
+Deaths:618"
+"392",2012,"Louisiana","LA",588,"12.8","Louisiana
+Deaths:588"
+"393",2013,"Louisiana","LA",836,"18.1","Louisiana
+Deaths:836"
+"394",2014,"Louisiana","LA",810,"17.4","Louisiana
+Deaths:810"
+"395",2015,"Louisiana","LA",901,"19.3","Louisiana
+Deaths:901"
+"396",2016,"Louisiana","LA",1036,"22.1","Louisiana
+Deaths:1036"
+"397",2017,"Louisiana","LA",1138,"24.3","Louisiana
+Deaths:1138"
+"398",2018,"Louisiana","LA",1186,"25.5","Louisiana
+Deaths:1186"
+"399",2019,"Louisiana","LA",1316,"28.3","Louisiana
+Deaths:1316"
+"400",1999,"Maine","ME",70,"5.5","Maine
+Deaths:70"
+"401",2000,"Maine","ME",62,"4.9","Maine
+Deaths:62"
+"402",2001,"Maine","ME",92,"7.2","Maine
+Deaths:92"
+"403",2002,"Maine","ME",147,"11.3","Maine
+Deaths:147"
+"404",2003,"Maine","ME",134,"10.3","Maine
+Deaths:134"
+"405",2004,"Maine","ME",145,"11.0","Maine
+Deaths:145"
+"406",2005,"Maine","ME",168,"12.7","Maine
+Deaths:168"
+"407",2006,"Maine","ME",166,"12.5","Maine
+Deaths:166"
+"408",2007,"Maine","ME",161,"12.1","Maine
+Deaths:161"
+"409",2008,"Maine","ME",162,"12.2","Maine
+Deaths:162"
+"410",2009,"Maine","ME",182,"13.7","Maine
+Deaths:182"
+"411",2010,"Maine","ME",140,"10.5","Maine
+Deaths:140"
+"412",2011,"Maine","ME",160,"12.0","Maine
+Deaths:160"
+"413",2012,"Maine","ME",157,"11.8","Maine
+Deaths:157"
+"414",2013,"Maine","ME",183,"13.8","Maine
+Deaths:183"
+"415",2014,"Maine","ME",227,"17.1","Maine
+Deaths:227"
+"416",2015,"Maine","ME",278,"20.9","Maine
+Deaths:278"
+"417",2016,"Maine","ME",369,"27.7","Maine
+Deaths:369"
+"418",2017,"Maine","ME",443,"33.2","Maine
+Deaths:443"
+"419",2018,"Maine","ME",364,"27.2","Maine
+Deaths:364"
+"420",2019,"Maine","ME",391,"29.1","Maine
+Deaths:391"
+"421",1999,"Maryland","MD",660,"12.6","Maryland
+Deaths:660"
+"422",2000,"Maryland","MD",657,"12.4","Maryland
+Deaths:657"
+"423",2001,"Maryland","MD",676,"12.6","Maryland
+Deaths:676"
+"424",2002,"Maryland","MD",759,"14.0","Maryland
+Deaths:759"
+"425",2003,"Maryland","MD",834,"15.2","Maryland
+Deaths:834"
+"426",2004,"Maryland","MD",721,"13.0","Maryland
+Deaths:721"
+"427",2005,"Maryland","MD",696,"12.4","Maryland
+Deaths:696"
+"428",2006,"Maryland","MD",805,"14.3","Maryland
+Deaths:805"
+"429",2007,"Maryland","MD",807,"14.3","Maryland
+Deaths:807"
+"430",2008,"Maryland","MD",731,"12.9","Maryland
+Deaths:731"
+"431",2009,"Maryland","MD",768,"13.4","Maryland
+Deaths:768"
+"432",2010,"Maryland","MD",674,"11.7","Maryland
+Deaths:674"
+"433",2011,"Maryland","MD",731,"12.5","Maryland
+Deaths:731"
+"434",2012,"Maryland","MD",860,"14.6","Maryland
+Deaths:860"
+"435",2013,"Maryland","MD",908,"15.3","Maryland
+Deaths:908"
+"436",2014,"Maryland","MD",1095,"18.3","Maryland
+Deaths:1095"
+"437",2015,"Maryland","MD",1320,"22.0","Maryland
+Deaths:1320"
+"438",2016,"Maryland","MD",2089,"34.7","Maryland
+Deaths:2089"
+"439",2017,"Maryland","MD",2296,"37.9","Maryland
+Deaths:2296"
+"440",2018,"Maryland","MD",2385,"39.5","Maryland
+Deaths:2385"
+"441",2019,"Maryland","MD",2421,"40.0","Maryland
+Deaths:2421"
+"442",1999,"Massachusetts","MA",512,"8.1","Massachusetts
+Deaths:512"
+"443",2000,"Massachusetts","MA",484,"7.6","Massachusetts
+Deaths:484"
+"444",2001,"Massachusetts","MA",714,"11.2","Massachusetts
+Deaths:714"
+"445",2002,"Massachusetts","MA",736,"11.5","Massachusetts
+Deaths:736"
+"446",2003,"Massachusetts","MA",876,"13.6","Massachusetts
+Deaths:876"
+"447",2004,"Massachusetts","MA",704,"11.0","Massachusetts
+Deaths:704"
+"448",2005,"Massachusetts","MA",867,"13.5","Massachusetts
+Deaths:867"
+"449",2006,"Massachusetts","MA",1021,"15.9","Massachusetts
+Deaths:1021"
+"450",2007,"Massachusetts","MA",1003,"15.6","Massachusetts
+Deaths:1003"
+"451",2008,"Massachusetts","MA",885,"13.7","Massachusetts
+Deaths:885"
+"452",2009,"Massachusetts","MA",916,"14.1","Massachusetts
+Deaths:916"
+"453",2010,"Massachusetts","MA",836,"12.8","Massachusetts
+Deaths:836"
+"454",2011,"Massachusetts","MA",1017,"15.4","Massachusetts
+Deaths:1017"
+"455",2012,"Massachusetts","MA",976,"14.7","Massachusetts
+Deaths:976"
+"456",2013,"Massachusetts","MA",1200,"17.9","Massachusetts
+Deaths:1200"
+"457",2014,"Massachusetts","MA",1402,"20.8","Massachusetts
+Deaths:1402"
+"458",2015,"Massachusetts","MA",1851,"27.2","Massachusetts
+Deaths:1851"
+"459",2016,"Massachusetts","MA",2379,"34.9","Massachusetts
+Deaths:2379"
+"460",2017,"Massachusetts","MA",2323,"33.9","Massachusetts
+Deaths:2323"
+"461",2018,"Massachusetts","MA",2391,"34.6","Massachusetts
+Deaths:2391"
+"462",2019,"Massachusetts","MA",2312,"33.5","Massachusetts
+Deaths:2312"
+"463",1999,"Michigan","MI",708,"7.2","Michigan
+Deaths:708"
+"464",2000,"Michigan","MI",871,"8.8","Michigan
+Deaths:871"
+"465",2001,"Michigan","MI",955,"9.6","Michigan
+Deaths:955"
+"466",2002,"Michigan","MI",1080,"10.8","Michigan
+Deaths:1080"
+"467",2003,"Michigan","MI",1062,"10.6","Michigan
+Deaths:1062"
+"468",2004,"Michigan","MI",1207,"12.0","Michigan
+Deaths:1207"
+"469",2005,"Michigan","MI",1398,"13.9","Michigan
+Deaths:1398"
+"470",2006,"Michigan","MI",1661,"16.6","Michigan
+Deaths:1661"
+"471",2007,"Michigan","MI",1542,"15.4","Michigan
+Deaths:1542"
+"472",2008,"Michigan","MI",1575,"15.8","Michigan
+Deaths:1575"
+"473",2009,"Michigan","MI",1750,"17.7","Michigan
+Deaths:1750"
+"474",2010,"Michigan","MI",1723,"17.4","Michigan
+Deaths:1723"
+"475",2011,"Michigan","MI",1702,"17.2","Michigan
+Deaths:1702"
+"476",2012,"Michigan","MI",1623,"16.4","Michigan
+Deaths:1623"
+"477",2013,"Michigan","MI",1812,"18.3","Michigan
+Deaths:1812"
+"478",2014,"Michigan","MI",2048,"20.7","Michigan
+Deaths:2048"
+"479",2015,"Michigan","MI",2316,"23.3","Michigan
+Deaths:2316"
+"480",2016,"Michigan","MI",2701,"27.2","Michigan
+Deaths:2701"
+"481",2017,"Michigan","MI",3034,"30.5","Michigan
+Deaths:3034"
+"482",2018,"Michigan","MI",2840,"28.4","Michigan
+Deaths:2840"
+"483",2019,"Michigan","MI",2565,"25.7","Michigan
+Deaths:2565"
+"484",1999,"Minnesota","MN",168,"3.4","Minnesota
+Deaths:168"
+"485",2000,"Minnesota","MN",161,"3.3","Minnesota
+Deaths:161"
+"486",2001,"Minnesota","MN",226,"4.5","Minnesota
+Deaths:226"
+"487",2002,"Minnesota","MN",241,"4.8","Minnesota
+Deaths:241"
+"488",2003,"Minnesota","MN",296,"5.9","Minnesota
+Deaths:296"
+"489",2004,"Minnesota","MN",302,"5.9","Minnesota
+Deaths:302"
+"490",2005,"Minnesota","MN",338,"6.6","Minnesota
+Deaths:338"
+"491",2006,"Minnesota","MN",378,"7.3","Minnesota
+Deaths:378"
+"492",2007,"Minnesota","MN",359,"6.9","Minnesota
+Deaths:359"
+"493",2008,"Minnesota","MN",398,"7.6","Minnesota
+Deaths:398"
+"494",2009,"Minnesota","MN",441,"8.4","Minnesota
+Deaths:441"
+"495",2010,"Minnesota","MN",427,"8.1","Minnesota
+Deaths:427"
+"496",2011,"Minnesota","MN",557,"10.4","Minnesota
+Deaths:557"
+"497",2012,"Minnesota","MN",539,"10.0","Minnesota
+Deaths:539"
+"498",2013,"Minnesota","MN",579,"10.7","Minnesota
+Deaths:579"
+"499",2014,"Minnesota","MN",586,"10.7","Minnesota
+Deaths:586"
+"500",2015,"Minnesota","MN",653,"11.9","Minnesota
+Deaths:653"
+"501",2016,"Minnesota","MN",750,"13.6","Minnesota
+Deaths:750"
+"502",2017,"Minnesota","MN",825,"14.8","Minnesota
+Deaths:825"
+"503",2018,"Minnesota","MN",736,"13.1","Minnesota
+Deaths:736"
+"504",2019,"Minnesota","MN",886,"15.7","Minnesota
+Deaths:886"
+"505",1999,"Mississippi","MS",101,"3.6","Mississippi
+Deaths:101"
+"506",2000,"Mississippi","MS",123,"4.3","Mississippi
+Deaths:123"
+"507",2001,"Mississippi","MS",183,"6.4","Mississippi
+Deaths:183"
+"508",2002,"Mississippi","MS",202,"7.1","Mississippi
+Deaths:202"
+"509",2003,"Mississippi","MS",225,"7.8","Mississippi
+Deaths:225"
+"510",2004,"Mississippi","MS",245,"8.5","Mississippi
+Deaths:245"
+"511",2005,"Mississippi","MS",263,"9.1","Mississippi
+Deaths:263"
+"512",2006,"Mississippi","MS",368,"12.7","Mississippi
+Deaths:368"
+"513",2007,"Mississippi","MS",334,"11.4","Mississippi
+Deaths:334"
+"514",2008,"Mississippi","MS",321,"10.9","Mississippi
+Deaths:321"
+"515",2009,"Mississippi","MS",345,"11.7","Mississippi
+Deaths:345"
+"516",2010,"Mississippi","MS",353,"11.9","Mississippi
+Deaths:353"
+"517",2011,"Mississippi","MS",317,"10.6","Mississippi
+Deaths:317"
+"518",2012,"Mississippi","MS",328,"11.0","Mississippi
+Deaths:328"
+"519",2013,"Mississippi","MS",327,"10.9","Mississippi
+Deaths:327"
+"520",2014,"Mississippi","MS",361,"12.1","Mississippi
+Deaths:361"
+"521",2015,"Mississippi","MS",369,"12.3","Mississippi
+Deaths:369"
+"522",2016,"Mississippi","MS",374,"12.5","Mississippi
+Deaths:374"
+"523",2017,"Mississippi","MS",387,"13.0","Mississippi
+Deaths:387"
+"524",2018,"Mississippi","MS",334,"11.2","Mississippi
+Deaths:334"
+"525",2019,"Mississippi","MS",431,"14.5","Mississippi
+Deaths:431"
+"526",1999,"Missouri","MO",294,"5.3","Missouri
+Deaths:294"
+"527",2000,"Missouri","MO",327,"5.8","Missouri
+Deaths:327"
+"528",2001,"Missouri","MO",381,"6.8","Missouri
+Deaths:381"
+"529",2002,"Missouri","MO",443,"7.8","Missouri
+Deaths:443"
+"530",2003,"Missouri","MO",550,"9.6","Missouri
+Deaths:550"
+"531",2004,"Missouri","MO",574,"10.0","Missouri
+Deaths:574"
+"532",2005,"Missouri","MO",640,"11.1","Missouri
+Deaths:640"
+"533",2006,"Missouri","MO",765,"13.1","Missouri
+Deaths:765"
+"534",2007,"Missouri","MO",730,"12.4","Missouri
+Deaths:730"
+"535",2008,"Missouri","MO",779,"13.2","Missouri
+Deaths:779"
+"536",2009,"Missouri","MO",881,"14.8","Missouri
+Deaths:881"
+"537",2010,"Missouri","MO",1024,"17.1","Missouri
+Deaths:1024"
+"538",2011,"Missouri","MO",990,"16.5","Missouri
+Deaths:990"
+"539",2012,"Missouri","MO",961,"16.0","Missouri
+Deaths:961"
+"540",2013,"Missouri","MO",1041,"17.2","Missouri
+Deaths:1041"
+"541",2014,"Missouri","MO",1107,"18.3","Missouri
+Deaths:1107"
+"542",2015,"Missouri","MO",1098,"18.0","Missouri
+Deaths:1098"
+"543",2016,"Missouri","MO",1418,"23.3","Missouri
+Deaths:1418"
+"544",2017,"Missouri","MO",1426,"23.3","Missouri
+Deaths:1426"
+"545",2018,"Missouri","MO",1660,"27.1","Missouri
+Deaths:1660"
+"546",2019,"Missouri","MO",1649,"26.9","Missouri
+Deaths:1649"
+"547",1999,"Montana","MT",48,"5.3","Montana
+Deaths:48"
+"548",2000,"Montana","MT",47,"5.2","Montana
+Deaths:47"
+"549",2001,"Montana","MT",62,"6.8","Montana
+Deaths:62"
+"550",2002,"Montana","MT",85,"9.3","Montana
+Deaths:85"
+"551",2003,"Montana","MT",116,"12.6","Montana
+Deaths:116"
+"552",2004,"Montana","MT",119,"12.8","Montana
+Deaths:119"
+"553",2005,"Montana","MT",119,"12.7","Montana
+Deaths:119"
+"554",2006,"Montana","MT",121,"12.7","Montana
+Deaths:121"
+"555",2007,"Montana","MT",132,"13.7","Montana
+Deaths:132"
+"556",2008,"Montana","MT",141,"14.4","Montana
+Deaths:141"
+"557",2009,"Montana","MT",147,"14.9","Montana
+Deaths:147"
+"558",2010,"Montana","MT",123,"12.4","Montana
+Deaths:123"
+"559",2011,"Montana","MT",150,"15.0","Montana
+Deaths:150"
+"560",2012,"Montana","MT",129,"12.8","Montana
+Deaths:129"
+"561",2013,"Montana","MT",156,"15.4","Montana
+Deaths:156"
+"562",2014,"Montana","MT",145,"14.2","Montana
+Deaths:145"
+"563",2015,"Montana","MT",152,"14.7","Montana
+Deaths:152"
+"564",2016,"Montana","MT",136,"13.0","Montana
+Deaths:136"
+"565",2017,"Montana","MT",132,"12.6","Montana
+Deaths:132"
+"566",2018,"Montana","MT",138,"13.0","Montana
+Deaths:138"
+"567",2019,"Montana","MT",153,"14.3","Montana
+Deaths:153"
+"568",1999,"Nebraska","NE",41,"2.4","Nebraska
+Deaths:41"
+"569",2000,"Nebraska","NE",52,"3.0","Nebraska
+Deaths:52"
+"570",2001,"Nebraska","NE",69,"4.0","Nebraska
+Deaths:69"
+"571",2002,"Nebraska","NE",69,"4.0","Nebraska
+Deaths:69"
+"572",2003,"Nebraska","NE",88,"5.1","Nebraska
+Deaths:88"
+"573",2004,"Nebraska","NE",91,"5.2","Nebraska
+Deaths:91"
+"574",2005,"Nebraska","NE",129,"7.3","Nebraska
+Deaths:129"
+"575",2006,"Nebraska","NE",131,"7.4","Nebraska
+Deaths:131"
+"576",2007,"Nebraska","NE",92,"5.2","Nebraska
+Deaths:92"
+"577",2008,"Nebraska","NE",113,"6.3","Nebraska
+Deaths:113"
+"578",2009,"Nebraska","NE",118,"6.5","Nebraska
+Deaths:118"
+"579",2010,"Nebraska","NE",130,"7.1","Nebraska
+Deaths:130"
+"580",2011,"Nebraska","NE",148,"8.0","Nebraska
+Deaths:148"
+"581",2012,"Nebraska","NE",154,"8.3","Nebraska
+Deaths:154"
+"582",2013,"Nebraska","NE",137,"7.3","Nebraska
+Deaths:137"
+"583",2014,"Nebraska","NE",140,"7.4","Nebraska
+Deaths:140"
+"584",2015,"Nebraska","NE",139,"7.3","Nebraska
+Deaths:139"
+"585",2016,"Nebraska","NE",146,"7.7","Nebraska
+Deaths:146"
+"586",2017,"Nebraska","NE",163,"8.5","Nebraska
+Deaths:163"
+"587",2018,"Nebraska","NE",171,"8.9","Nebraska
+Deaths:171"
+"588",2019,"Nebraska","NE",180,"9.3","Nebraska
+Deaths:180"
+"589",1999,"Nevada","NV",236,"12.2","Nevada
+Deaths:236"
+"590",2000,"Nevada","NV",281,"14.1","Nevada
+Deaths:281"
+"591",2001,"Nevada","NV",268,"12.8","Nevada
+Deaths:268"
+"592",2002,"Nevada","NV",332,"15.3","Nevada
+Deaths:332"
+"593",2003,"Nevada","NV",350,"15.6","Nevada
+Deaths:350"
+"594",2004,"Nevada","NV",395,"16.8","Nevada
+Deaths:395"
+"595",2005,"Nevada","NV",464,"19.1","Nevada
+Deaths:464"
+"596",2006,"Nevada","NV",471,"18.7","Nevada
+Deaths:471"
+"597",2007,"Nevada","NV",515,"19.8","Nevada
+Deaths:515"
+"598",2008,"Nevada","NV",529,"19.9","Nevada
+Deaths:529"
+"599",2009,"Nevada","NV",555,"20.7","Nevada
+Deaths:555"
+"600",2010,"Nevada","NV",581,"21.5","Nevada
+Deaths:581"
+"601",2011,"Nevada","NV",642,"23.6","Nevada
+Deaths:642"
+"602",2012,"Nevada","NV",611,"22.1","Nevada
+Deaths:611"
+"603",2013,"Nevada","NV",622,"22.3","Nevada
+Deaths:622"
+"604",2014,"Nevada","NV",555,"19.5","Nevada
+Deaths:555"
+"605",2015,"Nevada","NV",629,"21.8","Nevada
+Deaths:629"
+"606",2016,"Nevada","NV",678,"23.1","Nevada
+Deaths:678"
+"607",2017,"Nevada","NV",698,"23.3","Nevada
+Deaths:698"
+"608",2018,"Nevada","NV",712,"23.5","Nevada
+Deaths:712"
+"609",2019,"Nevada","NV",690,"22.4","Nevada
+Deaths:690"
+"610",1999,"New Hampshire","NH",62,"5.1","New Hampshire
+Deaths:62"
+"611",2000,"New Hampshire","NH",49,"4.0","New Hampshire
+Deaths:49"
+"612",2001,"New Hampshire","NH",83,"6.6","New Hampshire
+Deaths:83"
+"613",2002,"New Hampshire","NH",114,"9.0","New Hampshire
+Deaths:114"
+"614",2003,"New Hampshire","NH",137,"10.7","New Hampshire
+Deaths:137"
+"615",2004,"New Hampshire","NH",128,"9.9","New Hampshire
+Deaths:128"
+"616",2005,"New Hampshire","NH",152,"11.7","New Hampshire
+Deaths:152"
+"617",2006,"New Hampshire","NH",160,"12.2","New Hampshire
+Deaths:160"
+"618",2007,"New Hampshire","NH",187,"14.2","New Hampshire
+Deaths:187"
+"619",2008,"New Hampshire","NH",129,"9.8","New Hampshire
+Deaths:129"
+"620",2009,"New Hampshire","NH",172,"13.1","New Hampshire
+Deaths:172"
+"621",2010,"New Hampshire","NH",164,"12.5","New Hampshire
+Deaths:164"
+"622",2011,"New Hampshire","NH",212,"16.1","New Hampshire
+Deaths:212"
+"623",2012,"New Hampshire","NH",177,"13.4","New Hampshire
+Deaths:177"
+"624",2013,"New Hampshire","NH",217,"16.4","New Hampshire
+Deaths:217"
+"625",2014,"New Hampshire","NH",348,"26.2","New Hampshire
+Deaths:348"
+"626",2015,"New Hampshire","NH",433,"32.5","New Hampshire
+Deaths:433"
+"627",2016,"New Hampshire","NH",495,"37.1","New Hampshire
+Deaths:495"
+"628",2017,"New Hampshire","NH",479,"35.7","New Hampshire
+Deaths:479"
+"629",2018,"New Hampshire","NH",472,"34.8","New Hampshire
+Deaths:472"
+"630",2019,"New Hampshire","NH",420,"30.9","New Hampshire
+Deaths:420"
+"631",1999,"New Jersey","NJ",757,"9.1","New Jersey
+Deaths:757"
+"632",2000,"New Jersey","NJ",795,"9.4","New Jersey
+Deaths:795"
+"633",2001,"New Jersey","NJ",796,"9.4","New Jersey
+Deaths:796"
+"634",2002,"New Jersey","NJ",885,"10.3","New Jersey
+Deaths:885"
+"635",2003,"New Jersey","NJ",792,"9.2","New Jersey
+Deaths:792"
+"636",2004,"New Jersey","NJ",711,"8.2","New Jersey
+Deaths:711"
+"637",2005,"New Jersey","NJ",966,"11.2","New Jersey
+Deaths:966"
+"638",2006,"New Jersey","NJ",1009,"11.6","New Jersey
+Deaths:1009"
+"639",2007,"New Jersey","NJ",797,"9.2","New Jersey
+Deaths:797"
+"640",2008,"New Jersey","NJ",808,"9.3","New Jersey
+Deaths:808"
+"641",2009,"New Jersey","NJ",343,"3.9","New Jersey
+Deaths:343"
+"642",2010,"New Jersey","NJ",903,"10.3","New Jersey
+Deaths:903"
+"643",2011,"New Jersey","NJ",1042,"11.8","New Jersey
+Deaths:1042"
+"644",2012,"New Jersey","NJ",1268,"14.3","New Jersey
+Deaths:1268"
+"645",2013,"New Jersey","NJ",1331,"15.0","New Jersey
+Deaths:1331"
+"646",2014,"New Jersey","NJ",1303,"14.6","New Jersey
+Deaths:1303"
+"647",2015,"New Jersey","NJ",1506,"16.8","New Jersey
+Deaths:1506"
+"648",2016,"New Jersey","NJ",2132,"23.8","New Jersey
+Deaths:2132"
+"649",2017,"New Jersey","NJ",2752,"30.6","New Jersey
+Deaths:2752"
+"650",2018,"New Jersey","NJ",2980,"33.5","New Jersey
+Deaths:2980"
+"651",2019,"New Jersey","NJ",2867,"32.3","New Jersey
+Deaths:2867"
+"652",1999,"New Mexico","NM",275,"15.2","New Mexico
+Deaths:275"
+"653",2000,"New Mexico","NM",281,"15.4","New Mexico
+Deaths:281"
+"654",2001,"New Mexico","NM",277,"15.1","New Mexico
+Deaths:277"
+"655",2002,"New Mexico","NM",301,"16.2","New Mexico
+Deaths:301"
+"656",2003,"New Mexico","NM",373,"19.9","New Mexico
+Deaths:373"
+"657",2004,"New Mexico","NM",331,"17.4","New Mexico
+Deaths:331"
+"658",2005,"New Mexico","NM",385,"19.9","New Mexico
+Deaths:385"
+"659",2006,"New Mexico","NM",435,"22.2","New Mexico
+Deaths:435"
+"660",2007,"New Mexico","NM",471,"23.7","New Mexico
+Deaths:471"
+"661",2008,"New Mexico","NM",534,"26.6","New Mexico
+Deaths:534"
+"662",2009,"New Mexico","NM",447,"21.9","New Mexico
+Deaths:447"
+"663",2010,"New Mexico","NM",487,"23.7","New Mexico
+Deaths:487"
+"664",2011,"New Mexico","NM",537,"25.8","New Mexico
+Deaths:537"
+"665",2012,"New Mexico","NM",502,"24.1","New Mexico
+Deaths:502"
+"666",2013,"New Mexico","NM",471,"22.6","New Mexico
+Deaths:471"
+"667",2014,"New Mexico","NM",559,"26.8","New Mexico
+Deaths:559"
+"668",2015,"New Mexico","NM",516,"24.7","New Mexico
+Deaths:516"
+"669",2016,"New Mexico","NM",525,"25.2","New Mexico
+Deaths:525"
+"670",2017,"New Mexico","NM",515,"24.7","New Mexico
+Deaths:515"
+"671",2018,"New Mexico","NM",562,"26.8","New Mexico
+Deaths:562"
+"672",2019,"New Mexico","NM",632,"30.1","New Mexico
+Deaths:632"
+"673",1999,"New York","NY",1100,"5.8","New York
+Deaths:1100"
+"674",2000,"New York","NY",901,"4.7","New York
+Deaths:901"
+"675",2001,"New York","NY",1280,"6.7","New York
+Deaths:1280"
+"676",2002,"New York","NY",1117,"5.8","New York
+Deaths:1117"
+"677",2003,"New York","NY",1209,"6.3","New York
+Deaths:1209"
+"678",2004,"New York","NY",1067,"5.6","New York
+Deaths:1067"
+"679",2005,"New York","NY",1175,"6.1","New York
+Deaths:1175"
+"680",2006,"New York","NY",1949,"10.2","New York
+Deaths:1949"
+"681",2007,"New York","NY",1909,"10.0","New York
+Deaths:1909"
+"682",2008,"New York","NY",1856,"9.7","New York
+Deaths:1856"
+"683",2009,"New York","NY",1797,"9.3","New York
+Deaths:1797"
+"684",2010,"New York","NY",1760,"9.1","New York
+Deaths:1760"
+"685",2011,"New York","NY",2149,"11.0","New York
+Deaths:2149"
+"686",2012,"New York","NY",2262,"11.6","New York
+Deaths:2262"
+"687",2013,"New York","NY",2483,"12.6","New York
+Deaths:2483"
+"688",2014,"New York","NY",2510,"12.7","New York
+Deaths:2510"
+"689",2015,"New York","NY",3009,"15.2","New York
+Deaths:3009"
+"690",2016,"New York","NY",3894,"19.7","New York
+Deaths:3894"
+"691",2017,"New York","NY",4117,"20.7","New York
+Deaths:4117"
+"692",2018,"New York","NY",3904,"20.0","New York
+Deaths:3904"
+"693",2019,"New York","NY",3814,"19.6","New York
+Deaths:3814"
+"694",1999,"North Carolina","NC",401,"5.0","North Carolina
+Deaths:401"
+"695",2000,"North Carolina","NC",531,"6.6","North Carolina
+Deaths:531"
+"696",2001,"North Carolina","NC",584,"7.1","North Carolina
+Deaths:584"
+"697",2002,"North Carolina","NC",684,"8.2","North Carolina
+Deaths:684"
+"698",2003,"North Carolina","NC",833,"9.9","North Carolina
+Deaths:833"
+"699",2004,"North Carolina","NC",917,"10.7","North Carolina
+Deaths:917"
+"700",2005,"North Carolina","NC",1061,"12.2","North Carolina
+Deaths:1061"
+"701",2006,"North Carolina","NC",1120,"12.6","North Carolina
+Deaths:1120"
+"702",2007,"North Carolina","NC",1125,"12.3","North Carolina
+Deaths:1125"
+"703",2008,"North Carolina","NC",1217,"13.1","North Carolina
+Deaths:1217"
+"704",2009,"North Carolina","NC",1223,"12.9","North Carolina
+Deaths:1223"
+"705",2010,"North Carolina","NC",1125,"11.8","North Carolina
+Deaths:1125"
+"706",2011,"North Carolina","NC",1303,"13.5","North Carolina
+Deaths:1303"
+"707",2012,"North Carolina","NC",1346,"13.8","North Carolina
+Deaths:1346"
+"708",2013,"North Carolina","NC",1308,"13.3","North Carolina
+Deaths:1308"
+"709",2014,"North Carolina","NC",1435,"14.4","North Carolina
+Deaths:1435"
+"710",2015,"North Carolina","NC",1636,"16.3","North Carolina
+Deaths:1636"
+"711",2016,"North Carolina","NC",2040,"20.1","North Carolina
+Deaths:2040"
+"712",2017,"North Carolina","NC",2515,"24.5","North Carolina
+Deaths:2515"
+"713",2018,"North Carolina","NC",2340,"22.5","North Carolina
+Deaths:2340"
+"714",2019,"North Carolina","NC",2378,"22.7","North Carolina
+Deaths:2378"
+"715",1999,"North Dakota","ND",15,"Unreliable","North Dakota
+Deaths:15"
+"716",2000,"North Dakota","ND",16,"Unreliable","North Dakota
+Deaths:16"
+"717",2001,"North Dakota","ND",17,"Unreliable","North Dakota
+Deaths:17"
+"718",2002,"North Dakota","ND",24,"3.8","North Dakota
+Deaths:24"
+"719",2003,"North Dakota","ND",27,"4.2","North Dakota
+Deaths:27"
+"720",2004,"North Dakota","ND",21,"3.3","North Dakota
+Deaths:21"
+"721",2005,"North Dakota","ND",13,"Unreliable","North Dakota
+Deaths:13"
+"722",2006,"North Dakota","ND",16,"Unreliable","North Dakota
+Deaths:16"
+"723",2007,"North Dakota","ND",37,"5.7","North Dakota
+Deaths:37"
+"724",2008,"North Dakota","ND",48,"7.3","North Dakota
+Deaths:48"
+"725",2009,"North Dakota","ND",28,"4.2","North Dakota
+Deaths:28"
+"726",2010,"North Dakota","ND",26,"3.9","North Dakota
+Deaths:26"
+"727",2011,"North Dakota","ND",22,"3.2","North Dakota
+Deaths:22"
+"728",2012,"North Dakota","ND",27,"3.9","North Dakota
+Deaths:27"
+"729",2013,"North Dakota","ND",27,"3.7","North Dakota
+Deaths:27"
+"730",2014,"North Dakota","ND",48,"6.5","North Dakota
+Deaths:48"
+"731",2015,"North Dakota","ND",65,"8.6","North Dakota
+Deaths:65"
+"732",2016,"North Dakota","ND",86,"11.3","North Dakota
+Deaths:86"
+"733",2017,"North Dakota","ND",73,"9.7","North Dakota
+Deaths:73"
+"734",2018,"North Dakota","ND",76,"10.0","North Dakota
+Deaths:76"
+"735",2019,"North Dakota","ND",95,"12.5","North Dakota
+Deaths:95"
+"736",1999,"Ohio","OH",534,"4.7","Ohio
+Deaths:534"
+"737",2000,"Ohio","OH",625,"5.5","Ohio
+Deaths:625"
+"738",2001,"Ohio","OH",808,"7.1","Ohio
+Deaths:808"
+"739",2002,"Ohio","OH",1025,"9.0","Ohio
+Deaths:1025"
+"740",2003,"Ohio","OH",852,"7.5","Ohio
+Deaths:852"
+"741",2004,"Ohio","OH",1266,"11.1","Ohio
+Deaths:1266"
+"742",2005,"Ohio","OH",1382,"12.1","Ohio
+Deaths:1382"
+"743",2006,"Ohio","OH",1606,"14.0","Ohio
+Deaths:1606"
+"744",2007,"Ohio","OH",1691,"14.7","Ohio
+Deaths:1691"
+"745",2008,"Ohio","OH",1811,"15.7","Ohio
+Deaths:1811"
+"746",2009,"Ohio","OH",1340,"11.6","Ohio
+Deaths:1340"
+"747",2010,"Ohio","OH",1911,"16.6","Ohio
+Deaths:1911"
+"748",2011,"Ohio","OH",2127,"18.4","Ohio
+Deaths:2127"
+"749",2012,"Ohio","OH",2207,"19.1","Ohio
+Deaths:2207"
+"750",2013,"Ohio","OH",2450,"21.2","Ohio
+Deaths:2450"
+"751",2014,"Ohio","OH",2832,"24.4","Ohio
+Deaths:2832"
+"752",2015,"Ohio","OH",3418,"29.4","Ohio
+Deaths:3418"
+"753",2016,"Ohio","OH",4477,"38.5","Ohio
+Deaths:4477"
+"754",2017,"Ohio","OH",5299,"45.5","Ohio
+Deaths:5299"
+"755",2018,"Ohio","OH",4153,"35.5","Ohio
+Deaths:4153"
+"756",2019,"Ohio","OH",4440,"38.0","Ohio
+Deaths:4440"
+"757",1999,"Oklahoma","OK",189,"5.5","Oklahoma
+Deaths:189"
+"758",2000,"Oklahoma","OK",250,"7.2","Oklahoma
+Deaths:250"
+"759",2001,"Oklahoma","OK",282,"8.1","Oklahoma
+Deaths:282"
+"760",2002,"Oklahoma","OK",257,"7.4","Oklahoma
+Deaths:257"
+"761",2003,"Oklahoma","OK",411,"11.7","Oklahoma
+Deaths:411"
+"762",2004,"Oklahoma","OK",527,"14.9","Oklahoma
+Deaths:527"
+"763",2005,"Oklahoma","OK",533,"15.0","Oklahoma
+Deaths:533"
+"764",2006,"Oklahoma","OK",619,"17.2","Oklahoma
+Deaths:619"
+"765",2007,"Oklahoma","OK",687,"18.9","Oklahoma
+Deaths:687"
+"766",2008,"Oklahoma","OK",585,"15.9","Oklahoma
+Deaths:585"
+"767",2009,"Oklahoma","OK",766,"20.6","Oklahoma
+Deaths:766"
+"768",2010,"Oklahoma","OK",728,"19.4","Oklahoma
+Deaths:728"
+"769",2011,"Oklahoma","OK",715,"18.9","Oklahoma
+Deaths:715"
+"770",2012,"Oklahoma","OK",782,"20.5","Oklahoma
+Deaths:782"
+"771",2013,"Oklahoma","OK",800,"20.8","Oklahoma
+Deaths:800"
+"772",2014,"Oklahoma","OK",809,"20.9","Oklahoma
+Deaths:809"
+"773",2015,"Oklahoma","OK",751,"19.2","Oklahoma
+Deaths:751"
+"774",2016,"Oklahoma","OK",840,"21.4","Oklahoma
+Deaths:840"
+"775",2017,"Oklahoma","OK",805,"20.5","Oklahoma
+Deaths:805"
+"776",2018,"Oklahoma","OK",739,"18.7","Oklahoma
+Deaths:739"
+"777",2019,"Oklahoma","OK",680,"17.2","Oklahoma
+Deaths:680"
+"778",1999,"Oregon","OR",329,"9.7","Oregon
+Deaths:329"
+"779",2000,"Oregon","OR",306,"8.9","Oregon
+Deaths:306"
+"780",2001,"Oregon","OR",321,"9.3","Oregon
+Deaths:321"
+"781",2002,"Oregon","OR",411,"11.7","Oregon
+Deaths:411"
+"782",2003,"Oregon","OR",482,"13.6","Oregon
+Deaths:482"
+"783",2004,"Oregon","OR",482,"13.5","Oregon
+Deaths:482"
+"784",2005,"Oregon","OR",513,"14.2","Oregon
+Deaths:513"
+"785",2006,"Oregon","OR",584,"15.9","Oregon
+Deaths:584"
+"786",2007,"Oregon","OR",564,"15.2","Oregon
+Deaths:564"
+"787",2008,"Oregon","OR",521,"13.8","Oregon
+Deaths:521"
+"788",2009,"Oregon","OR",576,"15.1","Oregon
+Deaths:576"
+"789",2010,"Oregon","OR",576,"15.0","Oregon
+Deaths:576"
+"790",2011,"Oregon","OR",596,"15.4","Oregon
+Deaths:596"
+"791",2012,"Oregon","OR",568,"14.6","Oregon
+Deaths:568"
+"792",2013,"Oregon","OR",545,"13.9","Oregon
+Deaths:545"
+"793",2014,"Oregon","OR",617,"15.5","Oregon
+Deaths:617"
+"794",2015,"Oregon","OR",609,"15.1","Oregon
+Deaths:609"
+"795",2016,"Oregon","OR",651,"15.9","Oregon
+Deaths:651"
+"796",2017,"Oregon","OR",676,"16.3","Oregon
+Deaths:676"
+"797",2018,"Oregon","OR",678,"16.2","Oregon
+Deaths:678"
+"798",2019,"Oregon","OR",761,"18.0","Oregon
+Deaths:761"
+"799",1999,"Pennsylvania","PA",1049,"8.6","Pennsylvania
+Deaths:1049"
+"800",2000,"Pennsylvania","PA",1215,"9.9","Pennsylvania
+Deaths:1215"
+"801",2001,"Pennsylvania","PA",1021,"8.3","Pennsylvania
+Deaths:1021"
+"802",2002,"Pennsylvania","PA",1159,"9.4","Pennsylvania
+Deaths:1159"
+"803",2003,"Pennsylvania","PA",1441,"11.6","Pennsylvania
+Deaths:1441"
+"804",2004,"Pennsylvania","PA",1600,"12.9","Pennsylvania
+Deaths:1600"
+"805",2005,"Pennsylvania","PA",1680,"13.5","Pennsylvania
+Deaths:1680"
+"806",2006,"Pennsylvania","PA",1834,"14.7","Pennsylvania
+Deaths:1834"
+"807",2007,"Pennsylvania","PA",1812,"14.4","Pennsylvania
+Deaths:1812"
+"808",2008,"Pennsylvania","PA",1898,"15.0","Pennsylvania
+Deaths:1898"
+"809",2009,"Pennsylvania","PA",1983,"15.7","Pennsylvania
+Deaths:1983"
+"810",2010,"Pennsylvania","PA",1980,"15.6","Pennsylvania
+Deaths:1980"
+"811",2011,"Pennsylvania","PA",2342,"18.4","Pennsylvania
+Deaths:2342"
+"812",2012,"Pennsylvania","PA",2459,"19.3","Pennsylvania
+Deaths:2459"
+"813",2013,"Pennsylvania","PA",2525,"19.8","Pennsylvania
+Deaths:2525"
+"814",2014,"Pennsylvania","PA",2829,"22.1","Pennsylvania
+Deaths:2829"
+"815",2015,"Pennsylvania","PA",3376,"26.4","Pennsylvania
+Deaths:3376"
+"816",2016,"Pennsylvania","PA",4762,"37.2","Pennsylvania
+Deaths:4762"
+"817",2017,"Pennsylvania","PA",5495,"42.9","Pennsylvania
+Deaths:5495"
+"818",2018,"Pennsylvania","PA",4535,"35.4","Pennsylvania
+Deaths:4535"
+"819",2019,"Pennsylvania","PA",4475,"35.0","Pennsylvania
+Deaths:4475"
+"820",1999,"Rhode Island","RI",61,"5.9","Rhode Island
+Deaths:61"
+"821",2000,"Rhode Island","RI",76,"7.2","Rhode Island
+Deaths:76"
+"822",2001,"Rhode Island","RI",116,"11.0","Rhode Island
+Deaths:116"
+"823",2002,"Rhode Island","RI",112,"10.5","Rhode Island
+Deaths:112"
+"824",2003,"Rhode Island","RI",157,"14.7","Rhode Island
+Deaths:157"
+"825",2004,"Rhode Island","RI",109,"10.1","Rhode Island
+Deaths:109"
+"826",2005,"Rhode Island","RI",163,"15.3","Rhode Island
+Deaths:163"
+"827",2006,"Rhode Island","RI",179,"16.8","Rhode Island
+Deaths:179"
+"828",2007,"Rhode Island","RI",142,"13.4","Rhode Island
+Deaths:142"
+"829",2008,"Rhode Island","RI",193,"18.3","Rhode Island
+Deaths:193"
+"830",2009,"Rhode Island","RI",168,"15.9","Rhode Island
+Deaths:168"
+"831",2010,"Rhode Island","RI",176,"16.7","Rhode Island
+Deaths:176"
+"832",2011,"Rhode Island","RI",193,"18.4","Rhode Island
+Deaths:193"
+"833",2012,"Rhode Island","RI",201,"19.1","Rhode Island
+Deaths:201"
+"834",2013,"Rhode Island","RI",252,"24.0","Rhode Island
+Deaths:252"
+"835",2014,"Rhode Island","RI",253,"24.0","Rhode Island
+Deaths:253"
+"836",2015,"Rhode Island","RI",318,"30.1","Rhode Island
+Deaths:318"
+"837",2016,"Rhode Island","RI",330,"31.2","Rhode Island
+Deaths:330"
+"838",2017,"Rhode Island","RI",322,"30.4","Rhode Island
+Deaths:322"
+"839",2018,"Rhode Island","RI",328,"31.0","Rhode Island
+Deaths:328"
+"840",2019,"Rhode Island","RI",312,"29.5","Rhode Island
+Deaths:312"
+"841",1999,"South Carolina","SC",168,"4.2","South Carolina
+Deaths:168"
+"842",2000,"South Carolina","SC",289,"7.2","South Carolina
+Deaths:289"
+"843",2001,"South Carolina","SC",265,"6.5","South Carolina
+Deaths:265"
+"844",2002,"South Carolina","SC",238,"5.8","South Carolina
+Deaths:238"
+"845",2003,"South Carolina","SC",310,"7.5","South Carolina
+Deaths:310"
+"846",2004,"South Carolina","SC",383,"9.1","South Carolina
+Deaths:383"
+"847",2005,"South Carolina","SC",486,"11.4","South Carolina
+Deaths:486"
+"848",2006,"South Carolina","SC",641,"14.7","South Carolina
+Deaths:641"
+"849",2007,"South Carolina","SC",584,"13.1","South Carolina
+Deaths:584"
+"850",2008,"South Carolina","SC",588,"13.0","South Carolina
+Deaths:588"
+"851",2009,"South Carolina","SC",631,"13.7","South Carolina
+Deaths:631"
+"852",2010,"South Carolina","SC",697,"15.1","South Carolina
+Deaths:697"
+"853",2011,"South Carolina","SC",641,"13.7","South Carolina
+Deaths:641"
+"854",2012,"South Carolina","SC",611,"12.9","South Carolina
+Deaths:611"
+"855",2013,"South Carolina","SC",648,"13.6","South Carolina
+Deaths:648"
+"856",2014,"South Carolina","SC",726,"15.0","South Carolina
+Deaths:726"
+"857",2015,"South Carolina","SC",793,"16.2","South Carolina
+Deaths:793"
+"858",2016,"South Carolina","SC",927,"18.7","South Carolina
+Deaths:927"
+"859",2017,"South Carolina","SC",1052,"20.9","South Carolina
+Deaths:1052"
+"860",2018,"South Carolina","SC",1195,"23.5","South Carolina
+Deaths:1195"
+"861",2019,"South Carolina","SC",1181,"22.9","South Carolina
+Deaths:1181"
+"862",1999,"South Dakota","SD",20,"2.7","South Dakota
+Deaths:20"
+"863",2000,"South Dakota","SD",25,"3.3","South Dakota
+Deaths:25"
+"864",2001,"South Dakota","SD",25,"3.3","South Dakota
+Deaths:25"
+"865",2002,"South Dakota","SD",24,"3.2","South Dakota
+Deaths:24"
+"866",2003,"South Dakota","SD",25,"3.3","South Dakota
+Deaths:25"
+"867",2004,"South Dakota","SD",51,"6.6","South Dakota
+Deaths:51"
+"868",2005,"South Dakota","SD",47,"6.1","South Dakota
+Deaths:47"
+"869",2006,"South Dakota","SD",43,"5.5","South Dakota
+Deaths:43"
+"870",2007,"South Dakota","SD",34,"4.3","South Dakota
+Deaths:34"
+"871",2008,"South Dakota","SD",57,"7.1","South Dakota
+Deaths:57"
+"872",2009,"South Dakota","SD",51,"6.3","South Dakota
+Deaths:51"
+"873",2010,"South Dakota","SD",48,"5.9","South Dakota
+Deaths:48"
+"874",2011,"South Dakota","SD",60,"7.3","South Dakota
+Deaths:60"
+"875",2012,"South Dakota","SD",45,"5.4","South Dakota
+Deaths:45"
+"876",2013,"South Dakota","SD",57,"6.7","South Dakota
+Deaths:57"
+"877",2014,"South Dakota","SD",70,"8.2","South Dakota
+Deaths:70"
+"878",2015,"South Dakota","SD",72,"8.4","South Dakota
+Deaths:72"
+"879",2016,"South Dakota","SD",75,"8.7","South Dakota
+Deaths:75"
+"880",2017,"South Dakota","SD",81,"9.3","South Dakota
+Deaths:81"
+"881",2018,"South Dakota","SD",59,"6.7","South Dakota
+Deaths:59"
+"882",2019,"South Dakota","SD",90,"10.2","South Dakota
+Deaths:90"
+"883",1999,"Tennessee","TN",374,"6.6","Tennessee
+Deaths:374"
+"884",2000,"Tennessee","TN",426,"7.5","Tennessee
+Deaths:426"
+"885",2001,"Tennessee","TN",469,"8.2","Tennessee
+Deaths:469"
+"886",2002,"Tennessee","TN",524,"9.0","Tennessee
+Deaths:524"
+"887",2003,"Tennessee","TN",713,"12.2","Tennessee
+Deaths:713"
+"888",2004,"Tennessee","TN",822,"13.9","Tennessee
+Deaths:822"
+"889",2005,"Tennessee","TN",936,"15.6","Tennessee
+Deaths:936"
+"890",2006,"Tennessee","TN",1030,"16.9","Tennessee
+Deaths:1030"
+"891",2007,"Tennessee","TN",1035,"16.8","Tennessee
+Deaths:1035"
+"892",2008,"Tennessee","TN",977,"15.6","Tennessee
+Deaths:977"
+"893",2009,"Tennessee","TN",1000,"15.9","Tennessee
+Deaths:1000"
+"894",2010,"Tennessee","TN",1132,"17.8","Tennessee
+Deaths:1132"
+"895",2011,"Tennessee","TN",1123,"17.5","Tennessee
+Deaths:1123"
+"896",2012,"Tennessee","TN",1221,"18.9","Tennessee
+Deaths:1221"
+"897",2013,"Tennessee","TN",1284,"19.8","Tennessee
+Deaths:1284"
+"898",2014,"Tennessee","TN",1330,"20.3","Tennessee
+Deaths:1330"
+"899",2015,"Tennessee","TN",1546,"23.4","Tennessee
+Deaths:1546"
+"900",2016,"Tennessee","TN",1740,"26.2","Tennessee
+Deaths:1740"
+"901",2017,"Tennessee","TN",1898,"28.3","Tennessee
+Deaths:1898"
+"902",2018,"Tennessee","TN",1950,"28.8","Tennessee
+Deaths:1950"
+"903",2019,"Tennessee","TN",2219,"32.5","Tennessee
+Deaths:2219"
+"904",1999,"Texas","TX",1250,"6.1","Texas
+Deaths:1250"
+"905",2000,"Texas","TX",1211,"5.8","Texas
+Deaths:1211"
+"906",2001,"Texas","TX",1522,"7.1","Texas
+Deaths:1522"
+"907",2002,"Texas","TX",1780,"8.2","Texas
+Deaths:1780"
+"908",2003,"Texas","TX",1985,"9.0","Texas
+Deaths:1985"
+"909",2004,"Texas","TX",2039,"9.1","Texas
+Deaths:2039"
+"910",2005,"Texas","TX",2152,"9.4","Texas
+Deaths:2152"
+"911",2006,"Texas","TX",2452,"10.5","Texas
+Deaths:2452"
+"912",2007,"Texas","TX",2343,"9.8","Texas
+Deaths:2343"
+"913",2008,"Texas","TX",2199,"9.0","Texas
+Deaths:2199"
+"914",2009,"Texas","TX",2509,"10.1","Texas
+Deaths:2509"
+"915",2010,"Texas","TX",2492,"9.9","Texas
+Deaths:2492"
+"916",2011,"Texas","TX",2690,"10.5","Texas
+Deaths:2690"
+"917",2012,"Texas","TX",2546,"9.8","Texas
+Deaths:2546"
+"918",2013,"Texas","TX",2606,"9.9","Texas
+Deaths:2606"
+"919",2014,"Texas","TX",2727,"10.1","Texas
+Deaths:2727"
+"920",2015,"Texas","TX",2732,"9.9","Texas
+Deaths:2732"
+"921",2016,"Texas","TX",2965,"10.6","Texas
+Deaths:2965"
+"922",2017,"Texas","TX",3120,"11.0","Texas
+Deaths:3120"
+"923",2018,"Texas","TX",3163,"11.0","Texas
+Deaths:3163"
+"924",2019,"Texas","TX",3355,"11.6","Texas
+Deaths:3355"
+"925",1999,"Utah","UT",212,"9.6","Utah
+Deaths:212"
+"926",2000,"Utah","UT",224,"10.0","Utah
+Deaths:224"
+"927",2001,"Utah","UT",216,"9.5","Utah
+Deaths:216"
+"928",2002,"Utah","UT",300,"12.9","Utah
+Deaths:300"
+"929",2003,"Utah","UT",368,"15.6","Utah
+Deaths:368"
+"930",2004,"Utah","UT",411,"17.1","Utah
+Deaths:411"
+"931",2005,"Utah","UT",481,"19.6","Utah
+Deaths:481"
+"932",2006,"Utah","UT",481,"19.0","Utah
+Deaths:481"
+"933",2007,"Utah","UT",546,"21.0","Utah
+Deaths:546"
+"934",2008,"Utah","UT",483,"18.1","Utah
+Deaths:483"
+"935",2009,"Utah","UT",508,"18.7","Utah
+Deaths:508"
+"936",2010,"Utah","UT",457,"16.5","Utah
+Deaths:457"
+"937",2011,"Utah","UT",520,"18.5","Utah
+Deaths:520"
+"938",2012,"Utah","UT",612,"21.4","Utah
+Deaths:612"
+"939",2013,"Utah","UT",612,"21.1","Utah
+Deaths:612"
+"940",2014,"Utah","UT",617,"21.0","Utah
+Deaths:617"
+"941",2015,"Utah","UT",667,"22.3","Utah
+Deaths:667"
+"942",2016,"Utah","UT",685,"22.5","Utah
+Deaths:685"
+"943",2017,"Utah","UT",691,"22.3","Utah
+Deaths:691"
+"944",2018,"Utah","UT",676,"21.4","Utah
+Deaths:676"
+"945",2019,"Utah","UT",614,"19.2","Utah
+Deaths:614"
+"946",1999,"Vermont","VT",31,"5.1","Vermont
+Deaths:31"
+"947",2000,"Vermont","VT",37,"6.1","Vermont
+Deaths:37"
+"948",2001,"Vermont","VT",53,"8.7","Vermont
+Deaths:53"
+"949",2002,"Vermont","VT",54,"8.8","Vermont
+Deaths:54"
+"950",2003,"Vermont","VT",73,"11.8","Vermont
+Deaths:73"
+"951",2004,"Vermont","VT",52,"8.4","Vermont
+Deaths:52"
+"952",2005,"Vermont","VT",55,"8.9","Vermont
+Deaths:55"
+"953",2006,"Vermont","VT",83,"13.3","Vermont
+Deaths:83"
+"954",2007,"Vermont","VT",68,"10.9","Vermont
+Deaths:68"
+"955",2008,"Vermont","VT",76,"12.2","Vermont
+Deaths:76"
+"956",2009,"Vermont","VT",57,"9.1","Vermont
+Deaths:57"
+"957",2010,"Vermont","VT",68,"10.9","Vermont
+Deaths:68"
+"958",2011,"Vermont","VT",87,"13.9","Vermont
+Deaths:87"
+"959",2012,"Vermont","VT",81,"12.9","Vermont
+Deaths:81"
+"960",2013,"Vermont","VT",99,"15.8","Vermont
+Deaths:99"
+"961",2014,"Vermont","VT",90,"14.4","Vermont
+Deaths:90"
+"962",2015,"Vermont","VT",111,"17.7","Vermont
+Deaths:111"
+"963",2016,"Vermont","VT",131,"21.0","Vermont
+Deaths:131"
+"964",2017,"Vermont","VT",145,"23.2","Vermont
+Deaths:145"
+"965",2018,"Vermont","VT",161,"25.7","Vermont
+Deaths:161"
+"966",2019,"Vermont","VT",142,"22.8","Vermont
+Deaths:142"
+"967",1999,"Virginia","VA",390,"5.6","Virginia
+Deaths:390"
+"968",2000,"Virginia","VA",441,"6.2","Virginia
+Deaths:441"
+"969",2001,"Virginia","VA",503,"7.0","Virginia
+Deaths:503"
+"970",2002,"Virginia","VA",527,"7.2","Virginia
+Deaths:527"
+"971",2003,"Virginia","VA",580,"7.9","Virginia
+Deaths:580"
+"972",2004,"Virginia","VA",595,"8.0","Virginia
+Deaths:595"
+"973",2005,"Virginia","VA",617,"8.1","Virginia
+Deaths:617"
+"974",2006,"Virginia","VA",670,"8.7","Virginia
+Deaths:670"
+"975",2007,"Virginia","VA",713,"9.2","Virginia
+Deaths:713"
+"976",2008,"Virginia","VA",730,"9.3","Virginia
+Deaths:730"
+"977",2009,"Virginia","VA",700,"8.8","Virginia
+Deaths:700"
+"978",2010,"Virginia","VA",571,"7.1","Virginia
+Deaths:571"
+"979",2011,"Virginia","VA",817,"10.1","Virginia
+Deaths:817"
+"980",2012,"Virginia","VA",755,"9.2","Virginia
+Deaths:755"
+"981",2013,"Virginia","VA",890,"10.8","Virginia
+Deaths:890"
+"982",2014,"Virginia","VA",1002,"12.0","Virginia
+Deaths:1002"
+"983",2015,"Virginia","VA",1070,"12.8","Virginia
+Deaths:1070"
+"984",2016,"Virginia","VA",1444,"17.2","Virginia
+Deaths:1444"
+"985",2017,"Virginia","VA",1558,"18.4","Virginia
+Deaths:1558"
+"986",2018,"Virginia","VA",1502,"17.6","Virginia
+Deaths:1502"
+"987",2019,"Virginia","VA",1621,"19.0","Virginia
+Deaths:1621"
+"988",1999,"Washington","WA",596,"10.2","Washington
+Deaths:596"
+"989",2000,"Washington","WA",598,"10.1","Washington
+Deaths:598"
+"990",2001,"Washington","WA",547,"9.1","Washington
+Deaths:547"
+"991",2002,"Washington","WA",694,"11.5","Washington
+Deaths:694"
+"992",2003,"Washington","WA",752,"12.3","Washington
+Deaths:752"
+"993",2004,"Washington","WA",888,"14.4","Washington
+Deaths:888"
+"994",2005,"Washington","WA",931,"14.9","Washington
+Deaths:931"
+"995",2006,"Washington","WA",970,"15.2","Washington
+Deaths:970"
+"996",2007,"Washington","WA",1003,"15.5","Washington
+Deaths:1003"
+"997",2008,"Washington","WA",1058,"16.1","Washington
+Deaths:1058"
+"998",2009,"Washington","WA",1031,"15.5","Washington
+Deaths:1031"
+"999",2010,"Washington","WA",962,"14.3","Washington
+Deaths:962"
+"1000",2011,"Washington","WA",1050,"15.4","Washington
+Deaths:1050"
+"1001",2012,"Washington","WA",1033,"15.0","Washington
+Deaths:1033"
+"1002",2013,"Washington","WA",1042,"14.9","Washington
+Deaths:1042"
+"1003",2014,"Washington","WA",1058,"15.0","Washington
+Deaths:1058"
+"1004",2015,"Washington","WA",1189,"16.6","Washington
+Deaths:1189"
+"1005",2016,"Washington","WA",1212,"16.6","Washington
+Deaths:1212"
+"1006",2017,"Washington","WA",1309,"17.7","Washington
+Deaths:1309"
+"1007",2018,"Washington","WA",1319,"17.5","Washington
+Deaths:1319"
+"1008",2019,"Washington","WA",1416,"18.6","Washington
+Deaths:1416"
+"1009",1999,"West Virginia","WV",80,"4.4","West Virginia
+Deaths:80"
+"1010",2000,"West Virginia","WV",122,"6.7","West Virginia
+Deaths:122"
+"1011",2001,"West Virginia","WV",217,"12.0","West Virginia
+Deaths:217"
+"1012",2002,"West Virginia","WV",237,"13.1","West Virginia
+Deaths:237"
+"1013",2003,"West Virginia","WV",279,"15.4","West Virginia
+Deaths:279"
+"1014",2004,"West Virginia","WV",347,"19.1","West Virginia
+Deaths:347"
+"1015",2005,"West Virginia","WV",197,"10.8","West Virginia
+Deaths:197"
+"1016",2006,"West Virginia","WV",378,"20.7","West Virginia
+Deaths:378"
+"1017",2007,"West Virginia","WV",405,"22.1","West Virginia
+Deaths:405"
+"1018",2008,"West Virginia","WV",468,"25.4","West Virginia
+Deaths:468"
+"1019",2009,"West Virginia","WV",235,"12.7","West Virginia
+Deaths:235"
+"1020",2010,"West Virginia","WV",520,"28.1","West Virginia
+Deaths:520"
+"1021",2011,"West Virginia","WV",645,"34.8","West Virginia
+Deaths:645"
+"1022",2012,"West Virginia","WV",576,"31.0","West Virginia
+Deaths:576"
+"1023",2013,"West Virginia","WV",583,"31.4","West Virginia
+Deaths:583"
+"1024",2014,"West Virginia","WV",646,"34.9","West Virginia
+Deaths:646"
+"1025",2015,"West Virginia","WV",750,"40.7","West Virginia
+Deaths:750"
+"1026",2016,"West Virginia","WV",912,"49.8","West Virginia
+Deaths:912"
+"1027",2017,"West Virginia","WV",1023,"56.3","West Virginia
+Deaths:1023"
+"1028",2018,"West Virginia","WV",926,"51.3","West Virginia
+Deaths:926"
+"1029",2019,"West Virginia","WV",934,"52.1","West Virginia
+Deaths:934"
+"1030",1999,"Wisconsin","WI",237,"4.4","Wisconsin
+Deaths:237"
+"1031",2000,"Wisconsin","WI",278,"5.2","Wisconsin
+Deaths:278"
+"1032",2001,"Wisconsin","WI",297,"5.5","Wisconsin
+Deaths:297"
+"1033",2002,"Wisconsin","WI",364,"6.7","Wisconsin
+Deaths:364"
+"1034",2003,"Wisconsin","WI",433,"7.9","Wisconsin
+Deaths:433"
+"1035",2004,"Wisconsin","WI",483,"8.8","Wisconsin
+Deaths:483"
+"1036",2005,"Wisconsin","WI",561,"10.1","Wisconsin
+Deaths:561"
+"1037",2006,"Wisconsin","WI",642,"11.5","Wisconsin
+Deaths:642"
+"1038",2007,"Wisconsin","WI",639,"11.4","Wisconsin
+Deaths:639"
+"1039",2008,"Wisconsin","WI",622,"11.0","Wisconsin
+Deaths:622"
+"1040",2009,"Wisconsin","WI",641,"11.3","Wisconsin
+Deaths:641"
+"1041",2010,"Wisconsin","WI",635,"11.2","Wisconsin
+Deaths:635"
+"1042",2011,"Wisconsin","WI",712,"12.5","Wisconsin
+Deaths:712"
+"1043",2012,"Wisconsin","WI",714,"12.5","Wisconsin
+Deaths:714"
+"1044",2013,"Wisconsin","WI",874,"15.2","Wisconsin
+Deaths:874"
+"1045",2014,"Wisconsin","WI",874,"15.2","Wisconsin
+Deaths:874"
+"1046",2015,"Wisconsin","WI",894,"15.5","Wisconsin
+Deaths:894"
+"1047",2016,"Wisconsin","WI",1103,"19.1","Wisconsin
+Deaths:1103"
+"1048",2017,"Wisconsin","WI",1205,"20.8","Wisconsin
+Deaths:1205"
+"1049",2018,"Wisconsin","WI",1108,"19.1","Wisconsin
+Deaths:1108"
+"1050",2019,"Wisconsin","WI",1226,"21.1","Wisconsin
+Deaths:1226"
+"1051",1999,"Wyoming","WY",21,"4.3","Wyoming
+Deaths:21"
+"1052",2000,"Wyoming","WY",27,"5.5","Wyoming
+Deaths:27"
+"1053",2001,"Wyoming","WY",25,"5.1","Wyoming
+Deaths:25"
+"1054",2002,"Wyoming","WY",36,"7.2","Wyoming
+Deaths:36"
+"1055",2003,"Wyoming","WY",37,"7.3","Wyoming
+Deaths:37"
+"1056",2004,"Wyoming","WY",64,"12.6","Wyoming
+Deaths:64"
+"1057",2005,"Wyoming","WY",45,"8.8","Wyoming
+Deaths:45"
+"1058",2006,"Wyoming","WY",64,"12.2","Wyoming
+Deaths:64"
+"1059",2007,"Wyoming","WY",68,"12.7","Wyoming
+Deaths:68"
+"1060",2008,"Wyoming","WY",74,"13.6","Wyoming
+Deaths:74"
+"1061",2009,"Wyoming","WY",63,"11.3","Wyoming
+Deaths:63"
+"1062",2010,"Wyoming","WY",88,"15.6","Wyoming
+Deaths:88"
+"1063",2011,"Wyoming","WY",88,"15.5","Wyoming
+Deaths:88"
+"1064",2012,"Wyoming","WY",99,"17.2","Wyoming
+Deaths:99"
+"1065",2013,"Wyoming","WY",99,"17.0","Wyoming
+Deaths:99"
+"1066",2014,"Wyoming","WY",112,"19.2","Wyoming
+Deaths:112"
+"1067",2015,"Wyoming","WY",99,"16.9","Wyoming
+Deaths:99"
+"1068",2016,"Wyoming","WY",103,"17.6","Wyoming
+Deaths:103"
+"1069",2017,"Wyoming","WY",72,"12.4","Wyoming
+Deaths:72"
+"1070",2018,"Wyoming","WY",67,"11.6","Wyoming
+Deaths:67"
+"1071",2019,"Wyoming","WY",81,"14.0","Wyoming
+Deaths:81"
